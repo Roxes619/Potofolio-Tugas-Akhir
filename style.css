@@ -1,0 +1,24 @@
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#portofolio {
+  background-color: #e2edff;
+}
+
+#team {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
